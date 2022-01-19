@@ -8,4 +8,6 @@ My hobbies include video games, programming, guitar and music! I have played rug
 matthew-mcc/matthew-mcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+You can find my resume here:
 [Resume_Matthew McConnell.pdf](https://github.com/matthew-mcc/matthew-mcc/files/7901210/Resume_Matthew.McConnell.pdf)
