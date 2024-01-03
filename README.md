@@ -1,4 +1,4 @@
-Hi! My name is Matthew McConnell and I am a undergraduate student at the University of Calgary studying a Bsc in Computer Science and a Bsc in Architecture!
+Hi! My name is Matthew McConnell and I am a graduate student at the University of Calgary studying a Msc in Computer Science!
 
 About me:
 I am a passionate and independent learner who loves to spend time programming. I have always had a passion for computers building my first computer at 13 and have built many more since then. I transitioned my knowledge of computers to architecture and won two scholarships through BILD Calgary for my digital designs. My expertise lies in Python where I am fully capable of solving complex physics simulations, developing data analysis and visualization tools, working with multiple packages and framework tools, and the creation of graphical user interfaces. 
