@@ -9,5 +9,3 @@ matthew-mcc/matthew-mcc is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-You can find my resume here:
-[Resume_Matthew McConnell.pdf](https://github.com/matthew-mcc/matthew-mcc/files/7901210/Resume_Matthew.McConnell.pdf)
