@@ -1,4 +1,4 @@
-Hi! My name is Matthew McConnell and I am a graduate student at the University of Calgary studying a Msc in Computer Science!
+Hi! My name is Matthew McConnell and I am a graduate student at the University of Calgary studying a PhD. in Computer Science!
 
 About me:
 I am a passionate and independent learner who loves to spend time programming. I have always had a passion for computers building my first computer at 13 and have built many more since then. Currently, I am researching applied Artificial Intelligence with respect to video games. This github includes many personal projects, completed projects for research and many unfinished projects! 
